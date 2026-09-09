@@ -2,8 +2,6 @@
 
 An end-to-end business intelligence project that transforms synthetic digital-banking transaction data from an operational relational model into an analytics-ready snowflake warehouse. The project combines **MySQL data modelling, dimensional modelling, KNIME ETL workflows, SQL views, and BI reporting** to analyse personal-finance and spending behaviour.
 
-> **Portfolio context:** This repository is a cleaned public adaptation of a collaborative academic project. The original technical artefacts and results are preserved, while the repository structure and documentation were reorganised for portfolio presentation.
-
 ## Project goal
 
 Operational banking data is well suited to recording individual transactions, but repeated analytical questions require many joins across users, accounts, merchants, banks and locations. This project builds a separate data warehouse to support reusable analysis of:
