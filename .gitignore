@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+._*
+
+# KNIME local metadata
+.metadata/
+.knime/
+workspace/
+
+# MySQL / database exports
+*.sql.bak
+*.dump
+*.db
+*.sqlite
+*.sqlite3
+
+# Credentials and environment files
+.env
+.env.*
+*.pem
+*.key
+credentials.*
+secrets.*
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+~$*
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# IDE files
+.vscode/
+.idea/
+
+# Python cache (if Python utilities are added later)
+__pycache__/
+*.py[cod]
