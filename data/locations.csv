@@ -1,0 +1,251 @@
+location_id,city_name,country,region
+1,Parumasan,Indonesia,East
+2,Rostov-na-Donu,Russia,South
+3,Hammam Damt,Yemen,Central
+4,Pingdingshan,China,West
+5,Kumane,Serbia,West
+6,Maastricht,Netherlands,West
+7,Mahaddayweyne,Somalia,South
+8,Lofos,Greece,South
+9,Milwaukee,United States,South
+10,Tucheng,China,South
+11,Zabcice,Czech Republic,South
+12,Levin,New Zealand,West
+13,Viraco,Peru,Central
+14,Ouro Branco,Brazil,South
+15,Wuli,China,South
+16,Pajannangger,Indonesia,North
+17,Duran,Philippines,East
+18,Mersrags,Latvia,South
+19,Magnitogorsk,Russia,South
+20,Mohammedia,Morocco,North
+21,Lagodekhi,Georgia,Central
+22,Montargis,France,North
+23,Nova Petropolis,Brazil,Central
+24,Ban Huai Thalaeng,Thailand,North
+25,La Tinguina,Peru,South
+26,Sarilhos Grandes,Portugal,Central
+27,Stockholm,Sweden,Central
+28,Hrusovany u Brna,Czech Republic,South
+29,Sayansk,Russia,North
+30,Manuel Antonio Mesones Muro,Peru,North
+31,Swiebodzice,Poland,North
+32,Liubo,China,South
+33,Santa Venera,Malta,East
+34,Jiwani,Pakistan,South
+35,Xiaozhen,China,East
+36,Paris 12,France,South
+37,Jeremoabo,Brazil,West
+38,Beolgyo,South Korea,North
+39,Kongsvinger,Norway,West
+40,Shishan,China,Central
+41,San Marcos,Guatemala,East
+42,Tanbuqiao,China,East
+43,Xiaoshun,China,South
+44,Mertani,Indonesia,South
+45,Quinta da Queimada,Portugal,Central
+46,Melaka,Malaysia,East
+47,Zhuxi,China,North
+48,Sanligang,China,West
+49,Selizharovo,Russia,North
+50,Belem,Brazil,West
+51,Hyesan-dong,North Korea,North
+52,Kuching,Malaysia,Central
+53,Dokuchayevsk,Ukraine,West
+54,Hirara,Japan,South
+55,Santa Cruz,Mexico,West
+56,Camocim,Brazil,Central
+57,Tangqian,China,Central
+58,Montepuez,Mozambique,West
+59,Sampues,Colombia,North
+60,Kasakh,Armenia,South
+61,Ujmisht,Albania,Central
+62,Rochester,United States,South
+63,Santa Barbara d'Oeste,Brazil,North
+64,Zhonghechang,China,Central
+65,Bularit,Philippines,West
+66,Citalahab,Indonesia,West
+67,Korycany,Czech Republic,North
+68,Atuntaqui,Ecuador,South
+69,Anshun,China,South
+70,Novovladykino,Russia,North
+71,Tayirove,Ukraine,West
+72,Vitkov,Czech Republic,South
+73,Blawi,Indonesia,West
+74,Norrtalje,Sweden,South
+75,Farroupilha,Brazil,Central
+76,Kawerau,New Zealand,West
+77,Cam Pha,Vietnam,East
+78,Kpalime,Togo,West
+79,Maikun,China,West
+80,Altavista,Mexico,East
+81,Doibang,Indonesia,North
+82,Anjihai,China,Central
+83,Baalbek,Lebanon,East
+84,Jinshanwei,China,North
+85,Tuojiang,China,Central
+86,Matango,Indonesia,North
+87,Tan Chau,Vietnam,North
+88,Koudougou,Burkina Faso,North
+89,Tanggulangin,Indonesia,South
+90,Huertas,Peru,Central
+91,Castro Daire,Portugal,East
+92,Xiangshan,China,Central
+93,Santa Cruz,Philippines,Central
+94,Hotonj,Bosnia and Herzegovina,North
+95,Marcabal,Peru,South
+96,Purwasari,Indonesia,North
+97,Zhonghekou,China,East
+98,Szczecin,Poland,West
+99,Monte Novo,Portugal,North
+100,Pointe-Noire,Republic of the Congo,East
+101,Kauswagan,Philippines,East
+102,Strangnas,Sweden,West
+103,Manggekompo,Indonesia,East
+104,Wenchi,Ghana,West
+105,San Julian,Bolivia,South
+106,Micoud,Saint Lucia,West
+107,Qintang,China,South
+108,Taiyigong,China,South
+109,Maji,China,North
+110,Smiths Falls,Canada,Central
+111,Ngaoundere,Cameroon,North
+112,Wojsawice,Poland,North
+113,Tulkarm,Palestinian Territory,South
+114,Sumilao,Philippines,South
+115,Jampang Kulon,Indonesia,North
+116,Baltimore,United States,North
+117,Qoraozak,Uzbekistan,North
+118,Yantian,China,East
+119,Jeleuk,Indonesia,Central
+120,Xujia,China,East
+121,Luso,Portugal,Central
+122,Pa Bon,Thailand,East
+123,Kombapari,Indonesia,Central
+124,Roissy Charles-de-Gaulle,France,North
+125,Eg-Uur,Mongolia,West
+126,Al Munirah,Yemen,East
+127,Puncaksempur,Indonesia,South
+128,Samparna,Indonesia,East
+129,Dostoyevka,Russia,Central
+130,Pittsburgh,United States,West
+131,Hoorn,Netherlands,South
+132,Krajan,Indonesia,Central
+133,Luna,Philippines,Central
+134,Koln,Germany,Central
+135,Caoping,China,Central
+136,Apiai,Brazil,West
+137,Huochang,China,East
+138,Kyzyl-Oktyabrskiy,Russia,West
+139,Muang Xay,Laos,East
+140,Morcolla,Peru,North
+141,Miguel Hidalgo,Mexico,North
+142,Linares,Colombia,East
+143,Valenca,Brazil,South
+144,Stirion,Greece,Central
+145,Qujing,China,West
+146,Reims,France,North
+147,Palamadu,Indonesia,South
+148,Tanahgrogot,Indonesia,Central
+149,Houston,United States,South
+150,Delta del Tigre,Uruguay,East
+151,Koo,Poland,East
+152,Woro,Indonesia,East
+153,Jaboticabal,Brazil,North
+154,Peyima,Sierra Leone,West
+155,Cai Doi Vam,Vietnam,East
+156,Klinan,Philippines,North
+157,Santa Quiteria,Brazil,West
+158,Cotorra,Colombia,East
+159,Ogaki,Japan,West
+160,Wanfu,China,West
+161,Berlin,Germany,North
+162,Gonayiv,Haiti,Central
+163,Tangtuzhui,China,North
+164,Kebonagung,Indonesia,East
+165,Otutara,French Polynesia,West
+166,Klenci pod Cerchovem,Czech Republic,East
+167,Oster,Russia,Central
+168,Shalushka,Russia,North
+169,Chambellan,Haiti,West
+170,Temorlorong,Indonesia,Central
+171,Boulsa,Burkina Faso,Central
+172,Luis Donaldo Colosio,Mexico,West
+173,Curepipe,Mauritius,South
+174,Carhuamayo,Peru,North
+175,Zheleznogorsk,Russia,West
+176,Beizhang,China,South
+177,Vale da Bajouca,Portugal,North
+178,Uspenka,Ukraine,Central
+179,Xiaomian,China,East
+180,Quimper,France,North
+181,Changshan,China,South
+182,Tulchyn,Ukraine,West
+183,Rudna Maa,Poland,West
+184,Esteio,Brazil,West
+185,La Esperanza,Colombia,North
+186,El Maranon,Honduras,East
+187,Lughaye,Somalia,North
+188,Buenavista,Mexico,North
+189,San Jeronimo,Peru,East
+190,Nova Era,Brazil,North
+191,Kanash,Russia,North
+192,Igbeti,Nigeria,West
+193,Sarangmeduro,Indonesia,North
+194,Nanterre,France,South
+195,Ila Orangun,Nigeria,South
+196,Shixi,China,Central
+197,Aligudarz,Iran,East
+198,Sitrah,Bahrain,West
+199,Xam Nua,Laos,East
+200,Xiayang,China,Central
+201,Renfengzhuang,China,Central
+202,Ampatuan,Philippines,Central
+203,Bieqiao,China,North
+204,Shuanggang,China,East
+205,Cempa,Indonesia,East
+206,Pesqueira,Brazil,West
+207,Igreja,Portugal,East
+208,Ponta Pora,Brazil,South
+209,Sao Domingos do Maranhao,Brazil,North
+210,Al Mughayyir,Palestinian Territory,West
+211,Dalubian,China,North
+212,Santo Aleixo,Portugal,Central
+213,Nea Vrasna,Greece,North
+214,Talospatang,Philippines,Central
+215,Goteborg,Sweden,South
+216,Vastra Frolunda,Sweden,North
+217,Sanqu,China,West
+218,Jiangyou,China,South
+219,Aix-en-Provence,France,Central
+220,Bene Beraq,Israel,West
+221,Rennes,France,East
+222,Dahuaishu,China,Central
+223,Borgholm,Sweden,Central
+224,Horni Pocaply,Czech Republic,West
+225,Guanlu,China,North
+226,New York City,United States,East
+227,Amboasary,Madagascar,West
+228,Leticia,Colombia,West
+229,Alto Barinas,Venezuela,South
+230,Atok,Philippines,West
+231,Amarete,Bolivia,Central
+232,Balesari,Indonesia,East
+233,Kimolos,Greece,Central
+234,Suozhen,China,West
+235,Udanin,Poland,East
+236,Machado,Brazil,North
+237,Dean,United Kingdom,North
+238,Labuhan Deli,Indonesia,East
+239,Pirojpur,Bangladesh,Central
+240,Budapest,Hungary,North
+241,Nanzamu,China,South
+242,San Antonio,Philippines,West
+243,Phitsanulok,Thailand,East
+244,Frei,Norway,South
+245,Cincinnati,United States,South
+246,Ciawitali,Indonesia,Central
+247,Paris 20,France,East
+248,Tianhe,China,Central
+249,Dollard-Des Ormeaux,Canada,East
+250,Sabanagrande,Colombia,South

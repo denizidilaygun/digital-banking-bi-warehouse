@@ -1,0 +1,251 @@
+bank_id,bank_name,bank_type,country
+1,Katz,Credit Union,Nigeria
+2,Jaxworks,Online Bank,Portugal
+3,Thoughtblab,Online Bank,Moldova
+4,Tekfly,Online Bank,Indonesia
+5,Thoughtstorm,Online Bank,Indonesia
+6,Tavu,Online Bank,Indonesia
+7,Skajo,Online Bank,China
+8,Mycat,Digital Bank,Sierra Leone
+9,Ainyx,Online Bank,Philippines
+10,Linktype,Online Bank,China
+11,Twinte,Credit Union,China
+12,Youtags,Online Bank,South Africa
+13,Demizz,Traditional Bank,Ukraine
+14,Browsezoom,Traditional Bank,China
+15,Centizu,Credit Union,Madagascar
+16,Skyvu,Credit Union,Albania
+17,Yabox,Credit Union,Netherlands
+18,Skilith,Digital Bank,Sweden
+19,Thoughtstorm,Digital Bank,Philippines
+20,Bluezoom,Online Bank,Panama
+21,Tambee,Traditional Bank,Thailand
+22,Vidoo,Online Bank,China
+23,Fatz,Online Bank,Indonesia
+24,Tekfly,Digital Bank,Costa Rica
+25,Oloo,Traditional Bank,Philippines
+26,Skiptube,Credit Union,Indonesia
+27,Zoombeat,Traditional Bank,Norway
+28,Twiyo,Digital Bank,Indonesia
+29,Trilith,Digital Bank,China
+30,Yambee,Online Bank,United States
+31,Yadel,Credit Union,Czech Republic
+32,Kare,Traditional Bank,Russia
+33,Topicshots,Digital Bank,Serbia
+34,Mita,Digital Bank,China
+35,Eayo,Traditional Bank,China
+36,Tagtune,Credit Union,China
+37,Devify,Traditional Bank,Indonesia
+38,Vidoo,Credit Union,Serbia
+39,Mynte,Credit Union,Vietnam
+40,Tagchat,Traditional Bank,Thailand
+41,Meevee,Online Bank,Nicaragua
+42,Innojam,Traditional Bank,Nepal
+43,Photojam,Traditional Bank,Indonesia
+44,Topicshots,Digital Bank,China
+45,Feednation,Online Bank,France
+46,Yabox,Digital Bank,Japan
+47,Skinder,Credit Union,Indonesia
+48,Omba,Traditional Bank,China
+49,Fatz,Traditional Bank,Chile
+50,Camido,Online Bank,French Polynesia
+51,Demimbu,Credit Union,China
+52,Rhycero,Credit Union,Finland
+53,Trilia,Online Bank,Japan
+54,Topicstorm,Digital Bank,China
+55,Photobug,Credit Union,Bahamas
+56,Oozz,Online Bank,Thailand
+57,Omba,Online Bank,Mexico
+58,Wikizz,Credit Union,Poland
+59,Aimbu,Online Bank,Thailand
+60,Yacero,Digital Bank,Comoros
+61,Quaxo,Traditional Bank,Brazil
+62,Trilith,Traditional Bank,Philippines
+63,Quamba,Credit Union,Indonesia
+64,Zoomcast,Traditional Bank,Russia
+65,Jabbersphere,Credit Union,Syria
+66,Centimia,Digital Bank,Czech Republic
+67,Topicblab,Credit Union,Sweden
+68,Skilith,Credit Union,Argentina
+69,Topicblab,Traditional Bank,China
+70,Flipopia,Online Bank,China
+71,Jabberbean,Traditional Bank,Macedonia
+72,Kwideo,Online Bank,Iran
+73,Twitterbeat,Credit Union,Canada
+74,Voomm,Digital Bank,Indonesia
+75,Avamm,Online Bank,China
+76,Rhyzio,Digital Bank,Bosnia and Herzegovina
+77,Linkbridge,Credit Union,Kazakhstan
+78,Photobean,Digital Bank,Venezuela
+79,Voomm,Credit Union,Portugal
+80,Dynazzy,Credit Union,New Zealand
+81,Gigazoom,Credit Union,China
+82,Npath,Traditional Bank,Russia
+83,Fatz,Traditional Bank,Indonesia
+84,Ntag,Credit Union,Philippines
+85,Quinu,Credit Union,Sweden
+86,Abata,Digital Bank,Czech Republic
+87,Meejo,Digital Bank,Brazil
+88,Skibox,Digital Bank,China
+89,Eire,Traditional Bank,Malawi
+90,Kwimbee,Credit Union,China
+91,Photojam,Online Bank,United States
+92,Fatz,Online Bank,China
+93,Quinu,Credit Union,Chile
+94,Twimbo,Credit Union,China
+95,Zoomlounge,Credit Union,Russia
+96,Janyx,Credit Union,United States
+97,Feedfish,Digital Bank,Russia
+98,Tazzy,Digital Bank,Indonesia
+99,Yodo,Credit Union,Indonesia
+100,Voolia,Digital Bank,Indonesia
+101,Kwilith,Online Bank,China
+102,Edgeblab,Online Bank,United States
+103,Innojam,Traditional Bank,Sweden
+104,Yodo,Credit Union,Japan
+105,Demivee,Digital Bank,China
+106,Youbridge,Traditional Bank,Cameroon
+107,Dynabox,Digital Bank,China
+108,Twitterbeat,Traditional Bank,China
+109,Gigazoom,Digital Bank,Philippines
+110,Skidoo,Credit Union,China
+111,BlogXS,Credit Union,Albania
+112,Roodel,Credit Union,United Arab Emirates
+113,Gabvine,Credit Union,Tajikistan
+114,Realpoint,Traditional Bank,Czech Republic
+115,Rhybox,Credit Union,Poland
+116,Realblab,Online Bank,Indonesia
+117,Livepath,Credit Union,Philippines
+118,Browsedrive,Online Bank,China
+119,Avamm,Traditional Bank,China
+120,Trudoo,Traditional Bank,France
+121,Feedbug,Digital Bank,Malaysia
+122,Jaxworks,Online Bank,Kyrgyzstan
+123,Realbridge,Online Bank,Senegal
+124,Ooba,Digital Bank,Sweden
+125,Jaxnation,Online Bank,Albania
+126,Livepath,Credit Union,Japan
+127,Cogibox,Digital Bank,Poland
+128,Fivebridge,Digital Bank,Russia
+129,Edgeblab,Traditional Bank,Finland
+130,Oyonder,Online Bank,Russia
+131,Camimbo,Credit Union,Saint Barthelemy
+132,Vipe,Digital Bank,Ukraine
+133,Zoomlounge,Traditional Bank,Sweden
+134,Fliptune,Digital Bank,China
+135,Eare,Digital Bank,France
+136,Gabvine,Credit Union,Uruguay
+137,Youopia,Credit Union,Czech Republic
+138,Gigazoom,Online Bank,Indonesia
+139,Abata,Online Bank,Portugal
+140,Thoughtblab,Digital Bank,Yemen
+141,Avavee,Digital Bank,Colombia
+142,Skinder,Credit Union,Jordan
+143,Eimbee,Traditional Bank,Portugal
+144,Browsebug,Online Bank,Argentina
+145,Quimm,Online Bank,Jordan
+146,Tagcat,Traditional Bank,Botswana
+147,Meedoo,Online Bank,Indonesia
+148,Quimba,Credit Union,Mexico
+149,Ailane,Traditional Bank,Russia
+150,Kare,Digital Bank,Latvia
+151,Skipstorm,Credit Union,Argentina
+152,Camimbo,Credit Union,China
+153,Aivee,Online Bank,China
+154,Linkbridge,Credit Union,Brazil
+155,Voolia,Digital Bank,Argentina
+156,Tavu,Online Bank,China
+157,Divavu,Traditional Bank,Estonia
+158,Demimbu,Digital Bank,Syria
+159,Twinder,Digital Bank,Indonesia
+160,Brainverse,Traditional Bank,Burkina Faso
+161,Flashdog,Digital Bank,China
+162,DabZ,Digital Bank,Indonesia
+163,Leenti,Digital Bank,Poland
+164,Meevee,Digital Bank,Japan
+165,Eayo,Traditional Bank,Uruguay
+166,Feedmix,Credit Union,China
+167,Thoughtstorm,Credit Union,United Kingdom
+168,Oyope,Traditional Bank,Sweden
+169,Zoomzone,Credit Union,Sweden
+170,Lazzy,Credit Union,Portugal
+171,Skinder,Digital Bank,Argentina
+172,Browsecat,Online Bank,Russia
+173,Topiclounge,Digital Bank,Nigeria
+174,Oyoyo,Credit Union,China
+175,Vipe,Digital Bank,Poland
+176,Photolist,Traditional Bank,Poland
+177,Topiclounge,Credit Union,Thailand
+178,Plambee,Digital Bank,China
+179,InnoZ,Traditional Bank,China
+180,Roodel,Digital Bank,Sweden
+181,Brainlounge,Online Bank,China
+182,Vinte,Digital Bank,Japan
+183,Yakidoo,Credit Union,Sweden
+184,Jabberstorm,Traditional Bank,Japan
+185,Eayo,Online Bank,Estonia
+186,Gevee,Traditional Bank,China
+187,Skipstorm,Digital Bank,Nigeria
+188,Leexo,Online Bank,Russia
+189,Abata,Traditional Bank,South Africa
+190,Skyble,Online Bank,Nigeria
+191,Jabbertype,Credit Union,Lithuania
+192,Tagchat,Online Bank,Peru
+193,Shufflebeat,Traditional Bank,Nigeria
+194,Browsezoom,Digital Bank,Sweden
+195,Brightdog,Online Bank,Kazakhstan
+196,Camido,Traditional Bank,Tunisia
+197,Pixonyx,Traditional Bank,Czech Republic
+198,Cogidoo,Credit Union,Gambia
+199,Viva,Online Bank,Iraq
+200,Meezzy,Credit Union,China
+201,Muxo,Digital Bank,Czech Republic
+202,Jetpulse,Online Bank,Cuba
+203,Jaxworks,Traditional Bank,Thailand
+204,InnoZ,Credit Union,Latvia
+205,Realfire,Online Bank,Afghanistan
+206,Zoomlounge,Digital Bank,Poland
+207,Trudoo,Traditional Bank,Russia
+208,Oloo,Digital Bank,Guatemala
+209,Ooba,Online Bank,Norway
+210,Twitterlist,Digital Bank,Indonesia
+211,Eazzy,Digital Bank,Somalia
+212,Nlounge,Credit Union,Ukraine
+213,Skivee,Online Bank,Lithuania
+214,Cogilith,Traditional Bank,Palestinian Territory
+215,Gabspot,Credit Union,China
+216,Tazz,Traditional Bank,Serbia
+217,Trudoo,Traditional Bank,Bulgaria
+218,Meedoo,Online Bank,China
+219,Bubblebox,Online Bank,Peru
+220,Riffwire,Online Bank,China
+221,Twitterbeat,Credit Union,Russia
+222,Jetpulse,Online Bank,United States
+223,Kayveo,Credit Union,Philippines
+224,Avamba,Digital Bank,Brazil
+225,Divanoodle,Traditional Bank,Azerbaijan
+226,Trudoo,Credit Union,Indonesia
+227,Abatz,Traditional Bank,Lithuania
+228,Edgeblab,Traditional Bank,Philippines
+229,Agivu,Digital Bank,Spain
+230,Voonix,Digital Bank,China
+231,Demizz,Online Bank,Sweden
+232,Snaptags,Traditional Bank,Sweden
+233,Skyba,Credit Union,Indonesia
+234,Skaboo,Traditional Bank,Brazil
+235,Rhycero,Traditional Bank,Vietnam
+236,Quamba,Online Bank,Brazil
+237,Mydeo,Online Bank,Brazil
+238,Skimia,Traditional Bank,Indonesia
+239,Jaxnation,Online Bank,China
+240,Gigazoom,Traditional Bank,Indonesia
+241,Feednation,Digital Bank,Portugal
+242,Zoomzone,Credit Union,Czech Republic
+243,Zoozzy,Credit Union,Russia
+244,Realmix,Traditional Bank,Indonesia
+245,Yamia,Credit Union,China
+246,Skibox,Credit Union,Brazil
+247,Flipstorm,Traditional Bank,China
+248,Yozio,Online Bank,China
+249,Gigaclub,Online Bank,Russia
+250,Browsebug,Traditional Bank,Indonesia

@@ -1,0 +1,301 @@
+account_id,user_id,bank_id,account_type,currency,opened_date,account_status
+1,148,51,Investment,USD,2025-07-25,Closed
+2,164,3,Checking,EUR,2022-04-19,Frozen
+3,8,168,Investment,EUR,2024-03-03,Closed
+4,186,178,Investment,EUR,2023-09-02,Closed
+5,241,205,Digital Wallet,USD,2025-02-15,Active
+6,81,112,Checking,EUR,2021-04-17,Closed
+7,115,49,Digital Wallet,GBP,2025-01-01,Frozen
+8,229,76,Investment,GBP,2023-03-12,Frozen
+9,115,131,Investment,GBP,2021-08-03,Closed
+10,14,136,Digital Wallet,EUR,2022-06-26,Frozen
+11,178,18,Savings,USD,2023-12-04,Closed
+12,170,198,Digital Wallet,USD,2024-09-27,Active
+13,34,162,Investment,EUR,2022-08-20,Active
+14,137,142,Investment,USD,2022-12-21,Active
+15,166,169,Credit Card,GBP,2023-05-06,Frozen
+16,70,168,Credit Card,EUR,2022-12-09,Active
+17,111,18,Savings,EUR,2023-05-08,Frozen
+18,166,111,Digital Wallet,USD,2024-06-02,Active
+19,202,195,Savings,GBP,2023-10-19,Active
+20,218,65,Savings,EUR,2023-07-07,Frozen
+21,35,210,Investment,GBP,2023-03-16,Frozen
+22,116,153,Credit Card,EUR,2024-07-19,Closed
+23,87,29,Checking,EUR,2022-12-27,Frozen
+24,85,106,Credit Card,USD,2025-03-04,Closed
+25,107,110,Digital Wallet,USD,2025-08-27,Frozen
+26,224,141,Checking,USD,2023-11-06,Frozen
+27,157,146,Digital Wallet,USD,2023-12-25,Closed
+28,189,24,Digital Wallet,EUR,2021-03-13,Frozen
+29,187,100,Investment,GBP,2022-11-29,Closed
+30,118,75,Checking,GBP,2025-05-03,Active
+31,170,14,Credit Card,GBP,2023-05-16,Frozen
+32,102,136,Credit Card,GBP,2024-03-19,Frozen
+33,63,28,Digital Wallet,EUR,2022-06-16,Active
+34,130,57,Checking,GBP,2021-06-23,Active
+35,77,102,Investment,GBP,2024-05-21,Frozen
+36,144,214,Checking,GBP,2021-06-14,Closed
+37,161,61,Digital Wallet,USD,2024-07-19,Closed
+38,120,2,Digital Wallet,EUR,2021-09-14,Active
+39,50,212,Investment,USD,2024-12-25,Frozen
+40,236,131,Investment,USD,2022-10-24,Closed
+41,144,153,Digital Wallet,GBP,2024-12-31,Active
+42,40,231,Savings,GBP,2022-12-21,Frozen
+43,82,235,Checking,USD,2024-03-29,Closed
+44,105,80,Savings,EUR,2022-10-02,Active
+45,126,245,Digital Wallet,EUR,2025-05-08,Active
+46,160,114,Digital Wallet,USD,2025-10-04,Frozen
+47,21,248,Credit Card,EUR,2023-08-10,Active
+48,146,194,Checking,GBP,2024-05-28,Active
+49,104,236,Checking,GBP,2022-01-24,Closed
+50,194,122,Digital Wallet,EUR,2025-11-28,Active
+51,34,111,Digital Wallet,USD,2022-05-14,Active
+52,191,218,Checking,EUR,2024-01-16,Frozen
+53,244,39,Savings,USD,2025-01-30,Frozen
+54,144,136,Checking,GBP,2021-05-07,Frozen
+55,152,26,Savings,EUR,2022-09-19,Closed
+56,111,232,Digital Wallet,EUR,2022-06-07,Closed
+57,41,86,Digital Wallet,USD,2021-07-01,Closed
+58,55,120,Digital Wallet,USD,2023-11-02,Frozen
+59,224,206,Checking,GBP,2024-07-31,Closed
+60,210,87,Investment,EUR,2023-07-13,Closed
+61,235,120,Savings,USD,2023-08-17,Active
+62,232,160,Checking,GBP,2025-05-31,Closed
+63,164,11,Digital Wallet,GBP,2025-06-07,Active
+64,10,222,Checking,USD,2023-11-13,Closed
+65,193,194,Digital Wallet,EUR,2023-06-24,Active
+66,43,204,Digital Wallet,GBP,2023-04-05,Frozen
+67,113,197,Checking,EUR,2022-11-19,Closed
+68,34,67,Digital Wallet,GBP,2025-03-10,Active
+69,10,69,Checking,EUR,2022-08-25,Closed
+70,56,134,Digital Wallet,EUR,2021-11-27,Closed
+71,126,208,Investment,GBP,2022-05-22,Frozen
+72,234,78,Digital Wallet,GBP,2022-04-14,Closed
+73,162,3,Savings,USD,2024-05-02,Closed
+74,182,35,Checking,GBP,2025-02-18,Frozen
+75,184,203,Credit Card,EUR,2023-03-16,Active
+76,175,198,Credit Card,USD,2021-07-11,Active
+77,37,12,Savings,USD,2023-04-11,Closed
+78,55,165,Credit Card,GBP,2023-10-24,Frozen
+79,130,12,Investment,EUR,2021-01-20,Frozen
+80,199,14,Investment,GBP,2024-06-27,Active
+81,9,120,Digital Wallet,GBP,2025-05-11,Active
+82,245,161,Investment,EUR,2024-06-03,Active
+83,113,56,Checking,GBP,2022-02-16,Frozen
+84,202,5,Credit Card,USD,2023-08-26,Active
+85,64,145,Checking,EUR,2022-01-27,Frozen
+86,182,91,Digital Wallet,GBP,2025-08-22,Active
+87,231,180,Savings,GBP,2022-09-12,Active
+88,167,121,Investment,GBP,2022-07-26,Active
+89,243,31,Digital Wallet,GBP,2024-09-05,Closed
+90,24,194,Checking,USD,2024-04-17,Active
+91,225,196,Credit Card,USD,2024-11-14,Frozen
+92,95,245,Checking,USD,2021-05-28,Frozen
+93,15,100,Checking,GBP,2021-12-06,Active
+94,248,244,Digital Wallet,EUR,2025-05-13,Frozen
+95,186,139,Savings,EUR,2023-08-02,Frozen
+96,8,212,Credit Card,USD,2022-09-26,Frozen
+97,116,115,Credit Card,USD,2021-05-28,Active
+98,176,34,Investment,GBP,2021-12-24,Frozen
+99,67,42,Investment,USD,2023-04-08,Active
+100,95,66,Investment,USD,2023-06-28,Closed
+101,45,236,Credit Card,USD,2024-04-22,Closed
+102,183,242,Savings,GBP,2022-01-02,Closed
+103,169,99,Credit Card,USD,2024-06-05,Frozen
+104,11,70,Investment,USD,2023-12-03,Frozen
+105,79,95,Checking,GBP,2023-03-14,Active
+106,123,197,Credit Card,GBP,2023-09-01,Active
+107,85,83,Checking,EUR,2022-09-07,Frozen
+108,1,136,Credit Card,USD,2021-08-27,Closed
+109,244,14,Checking,USD,2023-11-29,Active
+110,88,134,Checking,USD,2021-05-21,Active
+111,34,183,Investment,EUR,2021-06-24,Frozen
+112,16,43,Credit Card,EUR,2025-06-10,Active
+113,52,172,Checking,GBP,2024-03-24,Closed
+114,29,5,Digital Wallet,EUR,2022-05-05,Frozen
+115,137,36,Checking,EUR,2023-12-13,Frozen
+116,147,52,Investment,USD,2024-11-28,Active
+117,244,200,Investment,GBP,2022-06-15,Active
+118,224,9,Investment,USD,2023-03-12,Frozen
+119,61,215,Credit Card,EUR,2025-06-19,Active
+120,55,167,Investment,GBP,2024-08-29,Closed
+121,100,237,Credit Card,USD,2021-08-25,Active
+122,62,222,Savings,GBP,2024-07-02,Frozen
+123,18,71,Savings,EUR,2025-04-27,Active
+124,27,38,Credit Card,USD,2021-01-12,Closed
+125,133,24,Investment,GBP,2022-06-19,Frozen
+126,9,175,Investment,GBP,2024-05-13,Closed
+127,119,202,Investment,GBP,2023-10-11,Frozen
+128,36,196,Checking,GBP,2021-01-31,Active
+129,38,9,Credit Card,EUR,2022-06-22,Closed
+130,237,178,Investment,EUR,2022-06-12,Active
+131,67,108,Investment,EUR,2022-07-23,Active
+132,209,39,Digital Wallet,USD,2021-01-19,Closed
+133,47,245,Credit Card,GBP,2022-12-12,Frozen
+134,220,135,Credit Card,GBP,2021-07-25,Closed
+135,118,137,Investment,GBP,2022-09-15,Active
+136,62,180,Checking,GBP,2024-09-17,Closed
+137,137,112,Credit Card,USD,2024-06-17,Closed
+138,32,71,Credit Card,EUR,2023-09-07,Active
+139,135,21,Checking,USD,2025-12-26,Active
+140,43,72,Checking,GBP,2023-07-22,Active
+141,168,120,Checking,EUR,2024-05-04,Active
+142,33,182,Savings,USD,2025-07-28,Frozen
+143,164,100,Investment,GBP,2022-06-22,Active
+144,90,153,Investment,USD,2024-06-08,Closed
+145,140,94,Digital Wallet,EUR,2021-08-19,Active
+146,245,104,Credit Card,GBP,2023-11-03,Active
+147,196,234,Credit Card,EUR,2023-11-23,Frozen
+148,49,102,Savings,GBP,2023-05-15,Frozen
+149,207,109,Checking,GBP,2021-04-16,Closed
+150,161,97,Investment,USD,2024-06-08,Active
+151,140,211,Digital Wallet,EUR,2025-04-30,Closed
+152,208,105,Investment,GBP,2023-11-15,Frozen
+153,142,155,Digital Wallet,EUR,2024-04-02,Active
+154,125,159,Investment,EUR,2025-09-20,Active
+155,222,36,Checking,EUR,2023-11-30,Closed
+156,84,40,Checking,EUR,2023-01-21,Active
+157,41,17,Checking,EUR,2021-05-20,Active
+158,140,212,Digital Wallet,GBP,2022-07-24,Closed
+159,237,49,Savings,GBP,2021-02-17,Closed
+160,18,28,Digital Wallet,GBP,2021-03-31,Frozen
+161,211,152,Credit Card,USD,2025-01-28,Active
+162,91,106,Savings,USD,2023-11-12,Closed
+163,46,199,Checking,USD,2021-09-10,Active
+164,4,145,Investment,USD,2025-10-19,Closed
+165,57,80,Savings,EUR,2024-05-19,Frozen
+166,215,218,Investment,USD,2024-08-12,Closed
+167,89,106,Investment,USD,2024-01-21,Closed
+168,226,117,Credit Card,USD,2021-06-15,Active
+169,211,120,Credit Card,EUR,2025-09-08,Active
+170,42,186,Credit Card,USD,2025-07-16,Frozen
+171,153,147,Digital Wallet,USD,2021-04-27,Closed
+172,79,104,Checking,USD,2024-06-12,Frozen
+173,207,165,Checking,EUR,2024-06-26,Frozen
+174,210,146,Credit Card,GBP,2022-04-03,Frozen
+175,208,233,Credit Card,GBP,2022-03-07,Frozen
+176,116,127,Savings,USD,2022-06-24,Closed
+177,78,75,Checking,USD,2022-01-22,Closed
+178,127,155,Credit Card,GBP,2021-04-23,Closed
+179,155,195,Checking,EUR,2025-07-14,Closed
+180,195,172,Digital Wallet,USD,2021-01-13,Frozen
+181,208,165,Savings,EUR,2022-09-02,Active
+182,109,45,Savings,GBP,2025-09-03,Frozen
+183,32,154,Savings,USD,2021-06-17,Active
+184,242,26,Savings,USD,2022-07-05,Closed
+185,218,8,Checking,EUR,2021-06-25,Closed
+186,104,76,Savings,EUR,2022-01-03,Frozen
+187,128,207,Checking,GBP,2024-11-03,Closed
+188,75,129,Investment,GBP,2025-05-11,Active
+189,205,63,Checking,USD,2025-09-05,Frozen
+190,235,25,Savings,EUR,2025-05-01,Frozen
+191,206,202,Investment,USD,2025-05-29,Active
+192,109,168,Savings,EUR,2024-02-08,Frozen
+193,34,168,Savings,EUR,2025-11-10,Closed
+194,1,22,Credit Card,EUR,2024-06-05,Active
+195,94,198,Savings,EUR,2025-08-13,Active
+196,80,31,Investment,USD,2023-08-07,Active
+197,198,58,Digital Wallet,USD,2023-12-01,Active
+198,184,92,Digital Wallet,USD,2023-11-26,Active
+199,59,14,Credit Card,GBP,2025-03-08,Frozen
+200,55,66,Digital Wallet,EUR,2024-01-28,Closed
+201,150,240,Investment,EUR,2025-03-23,Active
+202,135,69,Digital Wallet,EUR,2023-04-25,Active
+203,131,245,Savings,EUR,2025-07-29,Frozen
+204,13,162,Digital Wallet,USD,2024-04-16,Frozen
+205,206,93,Credit Card,USD,2024-02-17,Frozen
+206,174,74,Investment,EUR,2023-08-23,Frozen
+207,51,177,Investment,EUR,2024-08-30,Active
+208,160,148,Savings,EUR,2024-09-20,Frozen
+209,65,210,Checking,GBP,2022-05-17,Frozen
+210,115,250,Digital Wallet,GBP,2021-03-16,Active
+211,92,130,Savings,EUR,2024-07-03,Closed
+212,170,110,Savings,GBP,2021-04-26,Frozen
+213,126,35,Checking,USD,2023-01-13,Active
+214,79,62,Savings,GBP,2023-06-15,Closed
+215,238,117,Investment,GBP,2021-06-24,Active
+216,19,12,Digital Wallet,EUR,2023-09-17,Closed
+217,162,74,Investment,GBP,2023-03-27,Closed
+218,141,107,Checking,USD,2025-10-18,Closed
+219,132,201,Digital Wallet,EUR,2022-08-18,Frozen
+220,213,129,Investment,USD,2023-05-28,Closed
+221,206,103,Digital Wallet,EUR,2022-04-22,Frozen
+222,44,35,Digital Wallet,GBP,2021-05-23,Closed
+223,154,147,Credit Card,USD,2024-09-28,Active
+224,56,54,Digital Wallet,GBP,2023-07-12,Frozen
+225,197,26,Checking,EUR,2023-05-02,Closed
+226,65,52,Digital Wallet,EUR,2024-09-23,Closed
+227,108,110,Digital Wallet,USD,2023-06-06,Frozen
+228,93,36,Checking,GBP,2022-10-04,Closed
+229,4,234,Investment,USD,2024-10-24,Closed
+230,156,108,Investment,USD,2022-09-30,Active
+231,151,79,Savings,USD,2025-04-16,Active
+232,61,34,Credit Card,EUR,2025-11-27,Active
+233,121,154,Digital Wallet,USD,2021-06-25,Closed
+234,100,220,Savings,USD,2025-08-04,Closed
+235,137,20,Investment,USD,2024-12-23,Frozen
+236,103,87,Investment,USD,2024-01-06,Closed
+237,3,188,Investment,EUR,2025-09-23,Active
+238,159,89,Savings,USD,2025-01-29,Active
+239,54,107,Investment,EUR,2023-05-01,Frozen
+240,131,1,Credit Card,EUR,2022-06-30,Active
+241,154,143,Digital Wallet,EUR,2024-09-14,Frozen
+242,143,8,Checking,EUR,2025-10-22,Closed
+243,92,27,Credit Card,GBP,2021-10-10,Frozen
+244,78,243,Investment,GBP,2025-06-05,Closed
+245,43,49,Investment,GBP,2023-12-12,Active
+246,62,92,Checking,USD,2023-07-27,Frozen
+247,131,44,Credit Card,USD,2023-11-29,Active
+248,56,109,Credit Card,EUR,2021-11-27,Active
+249,153,69,Investment,GBP,2022-05-11,Closed
+250,16,101,Checking,EUR,2022-12-29,Frozen
+251,71,51,Investment,GBP,2023-01-20,Frozen
+252,248,114,Investment,GBP,2023-02-22,Closed
+253,25,144,Digital Wallet,GBP,2023-01-05,Active
+254,173,209,Credit Card,EUR,2025-07-14,Active
+255,32,26,Investment,USD,2025-02-06,Closed
+256,245,208,Digital Wallet,EUR,2025-04-15,Closed
+257,79,62,Savings,USD,2021-09-08,Frozen
+258,27,51,Credit Card,GBP,2024-03-25,Frozen
+259,90,64,Credit Card,GBP,2025-05-09,Closed
+260,32,196,Credit Card,GBP,2023-11-25,Active
+261,139,69,Credit Card,USD,2024-06-24,Closed
+262,122,182,Investment,USD,2025-07-17,Frozen
+263,21,26,Digital Wallet,USD,2021-08-13,Closed
+264,191,17,Credit Card,EUR,2021-01-29,Closed
+265,27,46,Savings,USD,2024-09-23,Active
+266,1,43,Checking,USD,2021-11-08,Active
+267,73,142,Investment,USD,2023-08-19,Closed
+268,111,57,Credit Card,GBP,2024-10-17,Active
+269,132,80,Credit Card,USD,2025-08-02,Closed
+270,232,243,Savings,USD,2023-06-01,Closed
+271,207,11,Digital Wallet,EUR,2023-12-16,Closed
+272,129,156,Digital Wallet,GBP,2022-07-03,Frozen
+273,115,189,Savings,GBP,2023-07-13,Active
+274,75,75,Checking,USD,2021-08-30,Closed
+275,213,84,Investment,USD,2021-02-20,Frozen
+276,173,95,Digital Wallet,GBP,2021-08-22,Closed
+277,196,43,Investment,USD,2025-04-20,Active
+278,186,173,Savings,GBP,2024-01-06,Active
+279,70,10,Digital Wallet,GBP,2025-07-21,Frozen
+280,140,70,Savings,GBP,2024-03-24,Active
+281,206,235,Savings,USD,2021-04-27,Frozen
+282,61,36,Digital Wallet,EUR,2025-06-15,Frozen
+283,127,210,Investment,EUR,2025-09-19,Active
+284,13,204,Investment,EUR,2024-07-14,Active
+285,163,186,Savings,EUR,2024-08-04,Closed
+286,191,164,Savings,EUR,2021-07-16,Closed
+287,115,128,Savings,EUR,2025-10-03,Frozen
+288,126,74,Digital Wallet,USD,2022-10-20,Frozen
+289,115,142,Investment,GBP,2021-08-20,Frozen
+290,224,146,Savings,USD,2024-08-08,Active
+291,61,99,Digital Wallet,GBP,2021-01-21,Frozen
+292,82,195,Savings,EUR,2025-01-20,Frozen
+293,19,82,Checking,EUR,2022-11-19,Closed
+294,205,117,Investment,EUR,2025-07-10,Frozen
+295,167,179,Savings,GBP,2025-08-03,Active
+296,172,240,Savings,GBP,2025-07-28,Frozen
+297,179,150,Checking,GBP,2023-05-07,Closed
+298,61,72,Savings,GBP,2021-02-16,Closed
+299,250,85,Savings,USD,2023-03-09,Active
+300,203,102,Savings,GBP,2024-10-09,Frozen
